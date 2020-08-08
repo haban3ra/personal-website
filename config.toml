@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
-
+  
   homeSubtitle = "I'm a Full Stack Developer, Software Engineer and Data Scientist."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -132,7 +132,7 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
+    writtenBy = "Written by"
   [languages.fr]
     subtitle  = "Hello Friend NG Theme"
     weight    = 2
