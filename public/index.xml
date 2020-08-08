@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <title>Hey there, I&#39;m Kimchi. 🍵</title>
+    <link>/</link>
+    <description>Recent content on Hey there, I&#39;m Kimchi. 🍵</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://example.com/posts/2014/09/creating-a-new-theme/</link>
+      <link>/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2014/09/creating-a-new-theme/</guid>
+      <guid>/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/posts/2014/03/migrate-to-hugo-from-jekyll/</link>
+      <link>/blog/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
+      <guid>/blog/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -35,10 +35,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>This Could Be the Start of Something Big</title>
-      <link>https://example.com/posts/2020/08/this-could-be-the-start-of-something-big/</link>
+      <link>/blog/hello/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2020/08/this-could-be-the-start-of-something-big/</guid>
+      <guid>/blog/hello/</guid>
       <description> This could be the start of something very big
 Why don&amp;rsquo;t you play your part?
 Please give your heart to me&amp;hellip;.and see
@@ -50,10 +50,10 @@ Why don&amp;rsquo;t you take a chance?
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>/about/</guid>
       <description>Hey there! 👋 My name is Kimchi and I&amp;rsquo;m a Full Stack Developer, Software Engineer and Data Scientist.
 In some days, I&amp;rsquo;m just your typical nerd who binge on crime and history podcasts; Cold and The Dollop are definitely one of my favorites.
 I build this blog as a starter for &amp;ldquo;actually&amp;rdquo; making projects. I have been dabbling on to Web Development since late 2018 but to no luck. I decided to make my own personal blog/portfolio/tracker for my progress.</description>
@@ -61,26 +61,35 @@ I build this blog as a starter for &amp;ldquo;actually&amp;rdquo; making project
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://example.com/posts/2014/04/hugo-template-primer/</link>
+      <link>/blog/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2014/04/hugo-template-primer/</guid>
+      <guid>/blog/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://example.com/posts/2014/04/getting-started-with-hugo/</link>
+      <link>/blog/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2014/04/getting-started-with-hugo/</guid>
+      <guid>/blog/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description></description>
     </item>
     
   </channel>
