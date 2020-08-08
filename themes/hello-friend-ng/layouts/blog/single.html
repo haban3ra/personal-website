@@ -21,7 +21,7 @@
       {{ end }}
 
       {{- if .Site.Params.EnableSharingButtons }}
-      <hr />
+
       <div class="sharing-buttons">
         {{ partial "sharing-buttons.html" . }}
       </div>
@@ -44,6 +44,8 @@
           {{ end }}
         </p>
       </div>
+
+      <hr />
 
       {{ with .Params.Cover }}
         <img src="/{{ . }}" class="post-cover" />
