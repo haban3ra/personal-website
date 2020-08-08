@@ -5,25 +5,60 @@ author = "Kimchi Balderrama"
 +++
 
 
-
-{{< image src="/img/profile.png" alt="profile" position="center" style="border-radius: 50%; width: 30%;" >}}
-
-
-## Hey there! 👋 
+{{< image src="/img/profile.png" alt="profile" style="border-radius: 50%; width: 22%;" >}}
 
 
+## Hannah Mae Balderrama ##
 
-My name is Kimchi and I'm a Full Stack Developer, Software Engineer and Data Scientist.
+kimchibalderrama@pm.me
 
-In some days, I'm just your typical nerd who binge on crime and history podcasts; Cold and The Dollop are definitely one of my favorites. 
+Taguig City, Metro Manila, Philippines, 1638
 
-I build this blog as a starter for "actually" making projects. I have been dabbling on to Web Development since late 2018 but to no luck. I decided to make my own personal blog/portfolio/tracker for my progress. Hopefully, I get hire-able soon.
 
-I am a self-taught developer and still trying things out. I'm an avid fan of Udemy, Coursera, freeCodeCamp and of course Google! 
+### Education ###
 
-When I'm not coding: 
+**POLYTECHNIC UNIVERSITY OF THE PHILIPPINES** – Sta. Mesa, Manila
 
-- I'm playing and sleeping with my cats
-- Listening to Classical & Jazz Music
-- Watching serial killer documentaries
-- Cooking (Oh, did I mention that cooking is my day job?)
+Bachelor in Communication Research, 2011, Undergraduate
+
+**Academia de San Bartolome de Taguig** – Tuktukan, Taguig City
+
+
+
+### Experience ###
+
+**PERSONAL PROJECTS** 
+
+**Position Title** Month Year – Month Year
+
+Beginning with your most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form. [Note: Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements. Quantify where possible. Do not use personal pronouns; each line should be a phrase rather than full sentence.]
+
+**ORGANIZATION** City, State
+
+**Position Title** Month Year – Month Year
+
+With your next-most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form. [Note: Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements. Quantify where possible. Do not use personal pronouns; each line should be a phrase rather than full sentence.]
+
+### Leadership and Activities ###
+
+**ORGANIZATION** City, State
+
+**Role** Month Year – Month Year
+
+[Note: This section can be formatted similarly to the Experience section, or you can omit descriptions for activities. If this section is more relevant to the opportunity you are applying for, consider moving this above your Experience section.]
+
+**ORGANIZATION** City, State
+
+**Role** Month Year – Month Year
+
+[Note: This section can be formatted similarly to the Experience section, or you can omit descriptions for activities. If this section is more relevant to the opportunity you are applying for, consider moving this above your Experience section.]
+
+**Skills &amp; Interests** [Note: Optional]
+
+**Technical:** HTML, CSS, Javascript, Bootstrap, React, Node, Python, PostgresSQL, Tableau
+
+**Language:** Fluent in Filipino and English
+
+**Laboratory:** List scientific / research lab techniques or tools [If Applicable]
+
+**Interests:** List activities you enjoy that may spark interview conversation
