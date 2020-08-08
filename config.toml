@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kimchibalderrama.now.sh/"
 title   = "Hey there, I'm Kimchi. 🍵"
 languageCode = "en-us"
 theme = "hello-friend-ng"
