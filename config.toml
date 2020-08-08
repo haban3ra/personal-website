@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Hey there! I'm Kimchi. 🍵"
+title   = "Hey there, I'm Kimchi. 🍵"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -11,7 +11,7 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
  googleAnalytics = "UA-174938729-1"
- disqusShortname = "kimchibalderrama.now.sh"
+ disqusShortname = "kimchibalderrama"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -109,7 +109,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/haban3ra"
 
   [[params.social]]
     name = "email"
@@ -117,15 +117,15 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/haban3ra"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/kimchibalderrama"
 
   [[params.social]]
     name = "codepen"
-    url  = "https://www.codepen.com/"
+    url  = "https://www.codepen.com/haban3ra"
 
 [languages]
   [languages.en]
