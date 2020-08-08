@@ -38,17 +38,16 @@
         </p>
       </div>
 
-      {{ with .Params.Cover }}
-        <img src="/{{ . }}" class="post-cover" />
-      {{ end }}
-    
-
       {{- if .Site.Params.EnableSharingButtons }}
       <hr />
       <div class="sharing-buttons">
         {{ partial "sharing-buttons.html" . }}
       </div>
-     {{- end }}
+      {{- end }}
+
+      {{ with .Params.Cover }}
+        <img src="/{{ . }}" class="post-cover" />
+      {{ end }}
 
       <div class="post-content">
         {{ .Content }}
