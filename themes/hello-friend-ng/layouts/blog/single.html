@@ -19,13 +19,6 @@
 
       {{ with .Params.Author }}<span class="post-author">— {{ $.Site.Params.WrittenBy | default "Written by" }} {{ . }}</span>
       {{ end }}
-
-      {{- if .Site.Params.EnableSharingButtons }}
-
-      <div class="sharing-buttons">
-        {{ partial "sharing-buttons.html" . }}
-      </div>
-      {{- end }}
      
       <div class="post-info">
         <p>
@@ -44,6 +37,13 @@
           {{ end }}
         </p>
       </div>
+
+      {{- if .Site.Params.EnableSharingButtons }}
+
+      <div class="sharing-buttons">
+        {{ partial "sharing-buttons.html" . }}
+      </div>
+      {{- end }}
 
       <hr />
 
