@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About Me"
 date = "2019-01-25"
 author = "Kimchi Balderrama"
 +++
@@ -8,52 +8,59 @@ author = "Kimchi Balderrama"
 {{< image src="/img/profile.png" alt="profile" style="border-radius: 50%; width: 22%;" >}}
 
 
-## Hannah Mae Balderrama ##
+# Hannah Mae Balderrama 
 
-kimchibalderrama@pm.me
+## _Full Stack Developer, Software Engineer and Data Scientist_
+
+[kimchibalderrama@pm.me](mailto:kimchibalderrama@pm.me) | [github.com/haban3ra](https://www.github.com/haban3ra)
 
 Taguig City, Metro Manila, Philippines, 1638
 
 
-### Education ###
 
-**POLYTECHNIC UNIVERSITY OF THE PHILIPPINES** – Sta. Mesa, Manila
+### Specialized in
 
-Bachelor in Communication Research, 2011, Undergraduate
+Web Development, Data Visualization and Analytics 
 
-**Academia de San Bartolome de Taguig** – Tuktukan, Taguig City
+--
+### Research interests
 
 
+Machine Learning, Data Storytelling, Business Models, Scalable Web Applications
 
-### Experience ###
+---
+### Education
 
-**PERSONAL PROJECTS** 
+`2011`
+**A.B. Communication Research (Undergraduate)**, _Polytechnic University of The Philippines, Manila._
 
-**Position Title** Month Year – Month Year
+`2010`
+**Secondary School**, _Trinity College, Cambridge_
 
-Beginning with your most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form. [Note: Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements. Quantify where possible. Do not use personal pronouns; each line should be a phrase rather than full sentence.]
+---
+### Awards &amp; Certifications
 
-**ORGANIZATION** City, State
 
-**Position Title** Month Year – Month Year
+`2012`
+President, *Royal Society*, London, UK
 
-With your next-most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form. [Note: Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements. Quantify where possible. Do not use personal pronouns; each line should be a phrase rather than full sentence.]
+Associate, *French Academy of Science*, Paris, France
 
-### Leadership and Activities ###
 
-**ORGANIZATION** City, State
+---
+### Experience &amp; Projects
 
-**Role** Month Year – Month Year
+`1600`
+__Royal Mint__, London
 
-[Note: This section can be formatted similarly to the Experience section, or you can omit descriptions for activities. If this section is more relevant to the opportunity you are applying for, consider moving this above your Experience section.]
+- Warden
+- Minted coins
 
-**ORGANIZATION** City, State
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
-**Role** Month Year – Month Year
-
-[Note: This section can be formatted similarly to the Experience section, or you can omit descriptions for activities. If this section is more relevant to the opportunity you are applying for, consider moving this above your Experience section.]
-
-**Skills &amp; Interests** [Note: Optional]
+---
+### Skills &amp; Interests
 
 **Technical:** HTML, CSS, Javascript, Bootstrap, React, Node, Python, PostgresSQL, Tableau
 
@@ -62,3 +69,4 @@ With your next-most recent position, describe your experience, skills, and resul
 **Laboratory:** List scientific / research lab techniques or tools [If Applicable]
 
 **Interests:** List activities you enjoy that may spark interview conversation
+
