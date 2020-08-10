@@ -23,7 +23,7 @@ cover = "img/start.jpg"
 
 +++
 
-_Photo by [Christian Joudrey](https://unsplash.com/@cjoudrey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText")_ _on [Unsplash](https://unsplash.com/s/photos/start?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
+Photo by [Christian Joudrey](https://unsplash.com/@cjoudrey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText") on [Unsplash](https://unsplash.com/s/photos/start?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 
 I have come across **Flavio Copes'** [freeCodeCamp post](https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/) a few weeks ago about setting up a simple yet fast blog using **Hugo**. Flavio is a great teacher, I have been reading his free books for reference. Check him out at [flaviocopes.com.](https://flaviocopes.com/)
