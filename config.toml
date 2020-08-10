@@ -34,7 +34,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  blog = "/blog/:year/:month/:title/"
 
 [author]
   name = "Kimchi Balderrama"
@@ -129,7 +129,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Welcome to My Website!"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     writtenBy = "Written by"
@@ -147,10 +147,6 @@ disableHugoGeneratorInject = false
     identifier = "blog"
     name       = "Blog"
     url        = "blog/"
-  [[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "contact/"
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
