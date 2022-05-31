@@ -5,7 +5,7 @@ author = "Kimchi Balderrama"
 +++
 
 
-{{< image src="/img/profile.png" alt="profile" style="border-radius: 50%; width: 22%;" >}}
+{{< image src="/img/profile.jpg" alt="profile" style="border-radius: 50%; width: 22%;" >}}
 
 
 ---
@@ -17,7 +17,7 @@ Industrial Technician. Fullstack Developer. Software Engineer.
 | <a href="http://linkedin.com/kimchibalderrama">My LinkedIn Profile</a>
 </div>
 
-### What I do ###
+## What I do ##
 
 My name is Kimchi and I'm a Full Stack Developer, Software Engineer and Data Scientist.
 
