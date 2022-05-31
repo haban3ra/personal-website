@@ -8,65 +8,64 @@ author = "Kimchi Balderrama"
 {{< image src="/img/profile.png" alt="profile" style="border-radius: 50%; width: 22%;" >}}
 
 
-# Hannah Mae Balderrama 
+---
+# Hannah Mae Balderrama
+Industrial Technician. Fullstack Developer. Software Engineer.
 
-## _Full Stack Developer, Software Engineer and Data Scientist_
+<div id="webaddress">
+<a href="kimchibalderrama.now.sh">kimchibalderrama.now.sh</a>
+| <a href="http://linkedin.com/kimchibalderrama">My LinkedIn Profile</a>
+</div>
 
-[kimchibalderrama@pm.me](mailto:kimchibalderrama@pm.me) | [github.com/haban3ra](https://www.github.com/haban3ra)
 
-Taguig City, Metro Manila, Philippines, 1638
+## Currently
 
-
+Currently, I am doing my internship at Mondelez International Inc., as a Technical Trainee, for a period of 18 months.
 
 ### Specialized in
 
-Web Development, Data Visualization and Analytics 
+Frontend programming. UI/UX Design. Figma. PostgresSQL. ES6. Data Analysis.
 
----
+
 ### Research interests
 
-
-Machine Learning, Data Storytelling, Business Models, Scalable Web Applications
-
----
-### Education
-
-`2011`
-**A.B. Communication Research (Undergraduate)**, _Polytechnic University of The Philippines, Manila._
-
-`2010`
-**Secondary School**, _Trinity College, Cambridge_
-
----
-### Awards &amp; Certifications
+Game development, modding, prototyping, IoT, Arduino development, process optimization
 
 
-`2012`
-President, *Royal Society*, London, UK
+## Education
 
-Associate, *French Academy of Science*, Paris, France
+`2021-Present`
+__MFI Polytechnic Institute Inc. Formerly, Meralco Foundation__
+- Dual Training System, Industrial Technician Program
+
+`2011-2012
+__Polytechnic University of the Philippines__
+- Bachelor in Communication Research
 
 
----
-### Experience &amp; Projects
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Skills
 
----
-### Skills &amp; Interests
+`Microsoft Office Suite`
+`Google Suite`
+`Canva`
+`Basic Adobe Suite`
+`HTML5`
+`CSS3`
+`Vanilla JS`
+`ES6`
+`Node`
+`PostgresSQL`
+`Python`
 
-**Technical:** HTML, CSS, Javascript, Bootstrap, React, Node, Python, PostgresSQL, Tableau
 
-**Language:** Fluent in Filipino and English
 
-**Laboratory:** List scientific / research lab techniques or tools [If Applicable]
 
-**Interests:** List activities you enjoy that may spark interview conversation
+
+<!-- ### Footer
+
+Last updated: May 2022->
+
 
